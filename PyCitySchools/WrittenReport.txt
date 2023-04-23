@@ -1,0 +1,24 @@
+Summary of Analysis
+In this district, there are two types of schools: Charters and District. Charter schools typically have
+lower student counts, being as low as 427, while Districts typically have higher student totals, being as high
+as 4976. Charters tend to typically have better overall passing rates than District schools.
+
+Conclusions
+1. The passing rates for math and reading for District schools are significantly
+lower than those of Charter schools, ~66 % and ~53 % for District, as opposed to those
+of Charters' ~93 % and ~90 %, respectively. However, there doesn't appear to be a direct
+correlation of passing rates to per capita, it appears to be the inverse. Schools that spend 
+$585 or less have a higher overall passing rate of 90 % and schools that spend $645-680 have a meager
+53 % overall passing rate. 
+
+2. The top 5 performing schools of the district are all charters, while the bottom 5 are all
+district school. Interestingly the bottom 5 schools have more of a school budget, ranging from
+$1.88 million to $3.09 million, as opposed to the top 5's more humble $585k to $1.31 million budgets.
+The student totals of the bottom 5 are also much larger, with the most bottom school having a student total
+of 4761, so perhaps it's not a lack of money that could be to blame for poor scores and grades, but perhaps
+overcrowded schools.
+
+3. Between Charters and District schools, they have the same avearge Math and Reading scores,
+however their passing math and reading percentages are very different, with Charters having passing per-
+centages in the >90s, while District schools are <67. Could be due to overall grade in math and reading, but 
+performing well in tests.
